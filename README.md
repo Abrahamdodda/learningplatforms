@@ -31,13 +31,14 @@ I have created a informational bot named "learning platforms" using Html and ser
 
 ## Screenshorts:
 ### Home Page 
-![homepage]()
+![homepage](https://user-images.githubusercontent.com/113120352/192824721-66bfe5f8-37c3-47a9-a858-503fdd8499e7.png)
 
-### Gallery Page
-![gallery page]![11](https://user-images.githubusercontent.com/113120352/192824721-66bfe5f8-37c3-47a9-a858-503fdd8499e7.png)
 
-### About Chat Bot 
-![About chat bot](https://user-images.githubusercontent.com/110820099/189346579-caae4531-311d-4d29-b627-9dceb0001e40.png)
+### chat bot
+![gallery page](https://user-images.githubusercontent.com/113120352/192858649-008a27ab-f82c-4697-8afe-2bbf1059229f.png)
+
+### about learning platform & applications
+![About chat bot]
 
 ### About Page
 ![about page](https://user-images.githubusercontent.com/110820099/189346754-69bfb86a-31ed-4552-bbde-d53775d95e78.png)
