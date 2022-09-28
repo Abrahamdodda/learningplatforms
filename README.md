@@ -44,10 +44,10 @@ I have created a informational bot named "learning platforms" using Html and ser
 ![about page](https://user-images.githubusercontent.com/113120352/192860280-cbcb0e92-758c-4051-92e5-bbaf04c7f51a.png)
 
 ### Online platform
-![Screenshot 2022-09-09 173108]
+![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/113120352/192861452-39e3f5db-3bf4-4799-bfee-8e4f44683361.png)
 
-### Chat Bot Page
-![chat bot page](https://user-images.githubusercontent.com/110820099/189347166-48cf0e3a-7a00-4b54-ae6f-b105afe035d4.png)
+### Apps
+![chat bot page]
 
 ### Contact Page
 ![contact page](https://user-images.githubusercontent.com/110820099/189347309-78addadc-e569-4368-aa44-0899923d0d6e.png)
