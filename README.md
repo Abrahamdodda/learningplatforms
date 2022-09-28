@@ -47,7 +47,7 @@ I have created a informational bot named "learning platforms" using Html and ser
 ![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/113120352/192861452-39e3f5db-3bf4-4799-bfee-8e4f44683361.png)
 
 ### Apps
-![chat bot page]
+![chat bot page](https://user-images.githubusercontent.com/113120352/192861752-cdea0974-ddf0-455b-8af0-e98e1248a208.png)
 
 ### Contact Page
 ![contact page](https://user-images.githubusercontent.com/110820099/189347309-78addadc-e569-4368-aa44-0899923d0d6e.png)
