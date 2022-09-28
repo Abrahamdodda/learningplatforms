@@ -38,10 +38,10 @@ I have created a informational bot named "learning platforms" using Html and ser
 ![gallery page](https://user-images.githubusercontent.com/113120352/192858649-008a27ab-f82c-4697-8afe-2bbf1059229f.png)
 
 ### about learning platform & applications
-![About chat bot]
+![About chat bot](https://user-images.githubusercontent.com/113120352/192859870-234ce817-67e5-47d0-997f-1b2c62ee4eb7.jpg)
 
-### About Page
-![about page](https://user-images.githubusercontent.com/110820099/189346754-69bfb86a-31ed-4552-bbde-d53775d95e78.png)
+### Benifits 
+![about page]
 
 ### FAQ Page
 ![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/110820099/189346962-c7e59c77-3836-46d0-bba1-ccfdb4ab8743.png)
