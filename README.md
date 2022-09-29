@@ -50,7 +50,7 @@ I have created a informational bot named "learning platforms" using Html and ser
 ![chat bot page](https://user-images.githubusercontent.com/113120352/192861752-cdea0974-ddf0-455b-8af0-e98e1248a208.png)
 
 ### Contact Page
-![contact page](https://user-images.githubusercontent.com/110820099/189347309-78addadc-e569-4368-aa44-0899923d0d6e.png)
+![contact page](https://user-images.githubusercontent.com/113120352/193066677-1442e899-4c17-4878-bbc3-2cf07edffd36.png)
 
 
 
